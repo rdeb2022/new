@@ -1,2 +1,3 @@
-hello this is can't be new2.txt
+new line added
+this is can't be new2.txt
 
